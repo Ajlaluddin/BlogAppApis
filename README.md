@@ -1,5 +1,8 @@
 # Blog App Apis
 ## It is a Backend API's Application. 
+- Application to create posts and comments as well as go through the registration and logging user process using a JWT token.
+- Swagger is implemenation is also done. means you can open it in Browser also
+
 ### It is SpringBoot Project. Build in Spring Tool Suite.
 
 ### Technology used in this Project: 
@@ -54,22 +57,17 @@
    - Now save the changes.)
   - And Try to Run the Project
 
-  ### If you are using Spring Tool Suite 
+  ### Test the API's in Postman App
+ -  Right Click On Project > Run As > Spring Boot App
+ -  Open Postman App and Import this  json file
+ -  Now all url's will get imported in Postman App
+ -  Now try using those url's.
+
+  ### As Swagger implementation is done You can open it in Browser aswell
  -  Right Click On Project > Run As > Spring Boot App 
- -  Now in Browser Type Url: http://localhost:8080
+ -  Now in Browser Type Url: 	http://localhost:8080/swagger-ui/index.html
  -  Note: In Url put Port according to your application.properties file or you can also use default port.
  -  Application will get Open
-   
- ### If you are using Eclipse EE
- - Open Project > open application.properties file >
- 
-  Now do some changes, Change port number according to your Tomcat Server
-  and save the file. 
-  
- - Right Click On Project > Run as > Spring Boot App
- - Now in Browser Type Url: http://localhost:9002
--  Note: In Url put Port according to your application.properties file.
- -  Application will get Open. 
 
 
 ### Some Screenshots of this Project:
