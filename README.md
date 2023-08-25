@@ -59,7 +59,7 @@
 
   ### Test the API's in Postman App
  -  Right Click On Project > Run As > Spring Boot App
- -  Open Postman App and Import this json file ![](Blog App Apis.json)
+ -  Open Postman App and Import Blog App Apis.json file (You will get this file)
  -  Now all url's will get imported in Postman App
  -  Now try using those url's.
 
