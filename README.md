@@ -56,8 +56,8 @@
 
   ### If you are using Spring Tool Suite 
  -  Right Click On Project > Run As > Spring Boot App 
- -  Now in Browser Type Url: http://localhost:9002
- -  Note: In Url put Port according to your application.properties file.
+ -  Now in Browser Type Url: http://localhost:8080
+ -  Note: In Url put Port according to your application.properties file or you can also use default port.
  -  Application will get Open
    
  ### If you are using Eclipse EE
