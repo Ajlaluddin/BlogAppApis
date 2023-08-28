@@ -1,7 +1,7 @@
 # Blog App Apis
 ## It is a Backend API's Application. 
 - Application to create posts and comments as well as go through the registration and logging user process using a JWT token.
-- Swagger is implemenation is also done. means you can open it in Browser also
+- Swagger implemenation is also done. means you can open it in Browser also
 
 ### It is SpringBoot Project. Build in Spring Tool Suite.
 
